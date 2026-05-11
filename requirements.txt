@@ -1,0 +1,6 @@
+flask
+flask-cors
+pandas
+pandas-ta
+python-binance
+gunicorn
